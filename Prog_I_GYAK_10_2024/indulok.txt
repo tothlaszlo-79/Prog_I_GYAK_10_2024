@@ -1,0 +1,4 @@
+Kis_Peter	10
+Nagy_Emil	11
+Kovacs_Lajos	11
+Pesti_Vilma	10

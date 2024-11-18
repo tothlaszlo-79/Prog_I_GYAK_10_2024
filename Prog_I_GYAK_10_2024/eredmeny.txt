@@ -1,0 +1,4 @@
+Kis_Peter	10	110	10.25
+Nagy_Emil	11	117	10.2
+Kovacs_Lajos	11	117	10
+Pesti_Vilma	10	179	10.11
